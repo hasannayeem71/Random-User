@@ -1,0 +1,7 @@
+.userContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgba(185, 185, 185, 0.26);
+}
