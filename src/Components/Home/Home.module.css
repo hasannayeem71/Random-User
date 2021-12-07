@@ -5,3 +5,10 @@
     flex-wrap: wrap;
     background-color: rgba(185, 185, 185, 0.26);
 }
+.sortButton{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: rgba(197, 235, 93, 0.603);
+}
